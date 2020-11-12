@@ -1,1 +1,1 @@
-# text_clf
+# Text classification of news articles - small project
